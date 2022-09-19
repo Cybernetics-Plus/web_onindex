@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <template id="web_layout" name="Website NoIndex" inherit_id="web.layout">
+        <xpath expr="//head" position="inside">
+            <meta name="robots" content="noindex, nofollow, noarchive, nositelinkssearchbox, nosnippet, max-image-preview:none, notranslate, noimageindex"/>
+            <meta name="googlebot" content="noindex, nofollow, noarchive, nositelinkssearchbox, nosnippet, max-image-preview:none, notranslate, noimageindex"/>
+            <meta name="googlebot-news" content="noindex, nofollow, noarchive, nositelinkssearchbox, nosnippet, max-image-preview:none, notranslate, noimageindex"/>
+        </xpath>
+    </template>
+</odoo>
