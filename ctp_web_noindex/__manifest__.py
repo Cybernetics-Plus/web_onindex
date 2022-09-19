@@ -7,7 +7,7 @@
 ###################################################################################
 
 {
-    'name': 'Cybernetics NoIndex',
+    'name': 'Website NoIndex',
     'version': '15.0.0.1.1',
     'summary': """ 
             Website NoIndex
