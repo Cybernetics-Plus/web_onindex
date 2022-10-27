@@ -8,7 +8,7 @@
 
 {
     'name': 'Website NoIndex',
-    'version': '15.0.0.1.1',
+    'version': '16.0.0.1.1',
     'summary': """ 
             Website NoIndex
             .""",
@@ -21,6 +21,8 @@
     'images': ['static/description/banner.gif'],
     'category': 'Website',
     'license': 'AGPL-3',
+    'price': 4.9,
+    'currency': 'EUR',
     'installable': True,
     'application': True,
     'auto_install': False,
