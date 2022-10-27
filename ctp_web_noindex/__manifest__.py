@@ -18,7 +18,7 @@
     'author': 'Cybernetics Plus Co., Ltd.',
     'website': 'https://www.cybernetics.plus',
     'live_test_url': 'https://www.cybernetics.plus',
-    'images': ['static/description/banner.png'],
+    'images': ['static/description/banner.gif'],
     'category': 'Website',
     'license': 'AGPL-3',
     'installable': True,
