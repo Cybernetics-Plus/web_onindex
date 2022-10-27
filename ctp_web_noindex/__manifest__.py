@@ -21,6 +21,8 @@
     'images': ['static/description/banner.gif'],
     'category': 'Website',
     'license': 'AGPL-3',
+    'price': 3.9,
+    'currency': 'EUR',
     'installable': True,
     'application': True,
     'auto_install': False,
