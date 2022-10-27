@@ -8,7 +8,7 @@
 
 {
     'name': 'Website NoIndex',
-    'version': '15.0.0.1.1',
+    'version': '14.0.0.1.1',
     'summary': """ 
             Website NoIndex
             .""",
@@ -18,9 +18,11 @@
     'author': 'Cybernetics Plus Co., Ltd.',
     'website': 'https://www.cybernetics.plus',
     'live_test_url': 'https://www.cybernetics.plus',
-    'images': ['static/description/banner.png'],
+    'images': ['static/description/banner.gif'],
     'category': 'Website',
     'license': 'AGPL-3',
+    'price': 2.9,
+    'currency': 'EUR',
     'installable': True,
     'application': True,
     'auto_install': False,
