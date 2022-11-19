@@ -7,32 +7,32 @@
 ###################################################################################
 
 {
-    'name': 'Website NoIndex',
-    'version': '16.0.0.1.1',
-    'summary': """ 
+    "name": "Website NoIndex",
+    "version": "16.0.0.1.1",
+    "summary": """ 
             Website NoIndex
             .""",
-    'description': """ 
+    "description": """ 
             Website NoIndex
             .""",
-    'author': 'Cybernetics Plus Co., Ltd.',
-    'website': 'https://www.cybernetics.plus',
-    'live_test_url': 'https://www.cybernetics.plus',
-    'images': ['static/description/banner.gif'],
-    'category': 'Website',
-    'license': 'AGPL-3',
-    'price': 4.9,
-    'currency': 'EUR',
-    'installable': True,
-    'application': True,
-    'auto_install': False,
-    'contributors': [
-        'Developer <dev@cybernetics.plus>',
+    "author": "Cybernetics+",
+    "website": "https://www.cybernetics.plus",
+    "live_test_url": "https://www.cybernetics.plus",
+    "images": ["static/description/banner.gif"],
+    "category": "Website",
+    "license": "AGPL-3",
+    "price": 4.9,
+    "currency": "EUR",
+    "installable": True,
+    "application": True,
+    "auto_install": False,
+    "contributors": [
+        "Developer <dev@cybernetics.plus>",
     ],
-    'depends': [
-        'web',
+    "depends": [
+        "web",
     ],
-    'data': [
-        'views/noindex.xml',
+    "data": [
+        "views/noindex.xml",
     ],
 }
